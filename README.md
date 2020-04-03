@@ -1,2 +1,2 @@
-# pruthvi.iyengar-gmail.com
-Natural language processing on Financial Statements  Amazon vs McDonalds
+# Risk-Assessment-using-NLP
+Natural language processing (Machine learning) to assess the risk
